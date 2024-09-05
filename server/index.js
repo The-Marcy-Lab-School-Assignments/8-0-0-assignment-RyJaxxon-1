@@ -1,4 +1,4 @@
-/** FEEDBACK: Great job! Remember to deploy this app at some point! */
+/** FEEDBACK: Great job! */
 // Import Express and create the `app` object.
 const express = require('express');
 const app = express();
